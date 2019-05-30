@@ -1,0 +1,28 @@
+.gif-button {
+    margin: 3px;
+}
+
+.gifAndRating-div {
+    display: inline-block;
+    border: 3px solid;
+    margin: 5px;
+    /* text-align: center; */
+}
+
+img:hover {
+    cursor: pointer;
+}
+
+body {
+    background-image: url("../images/campNou.jpg");
+}
+h1 {
+    color: #A70042;
+}
+label{
+    color: #EDBC00;
+}
+
+footer{
+    color:#004C99;
+}
